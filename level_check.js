@@ -20,7 +20,7 @@ if (a == m) {
 
 let n = 10;
 let x = 5;
-let ntr = "";
+let ntr = ""; 
 
 for (let i = 1; i <= n; i++) {
   if (i !== x) {
